@@ -1,0 +1,2 @@
+# AboutSFHS
+Welcome to SFHS
